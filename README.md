@@ -10,9 +10,14 @@ Performed data cleaning data manipulation and data visualization using Numpy , P
 - <a href="https://github.com/Bharti1004/Diwali-Sales-Analysis/blob/main/Diwali_Sales_Analysis.ipynb">View_Analysis</a>
 
 ## Process:
-### •	Load and Inspect Data: Load the dataset and check its structure using .head(), .info(), and .describe().
-### •	Clean the Data: Handle missing values, duplicates, and fix data type issues.
-### •	Univariate Analysis: Analyze individual variables using histograms, bar charts, or boxplots.
-### •	Bivariate/Multivariate Analysis: Explore relationships between variables using scatter plots, heatmaps, or pair plots.
-### •	Handle Outliers and Transform Features: Identify outliers and create new features if necessary.
-### •	Visualize and Document Insights: Use visual tools to summarize patterns, trends, and insights
+•	Load and Inspect Data: Load the dataset and check its structure using .head(), .info(), and .describe().
+
+•	Clean the Data: Handle missing values, duplicates, and fix data type issues.
+
+•	Univariate Analysis: Analyze individual variables using histograms, bar charts, or boxplots.
+
+•	Bivariate/Multivariate Analysis: Explore relationships between variables using scatter plots, heatmaps, or pair plots.
+
+•	Handle Outliers and Transform Features: Identify outliers and create new features if necessary.
+
+•	Visualize and Document Insights: Use visual tools to summarize patterns, trends, and insights
