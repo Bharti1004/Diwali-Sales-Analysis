@@ -11,12 +11,16 @@ Performed data cleaning data manipulation and data visualization using Numpy , P
 
 ## Process:
 1.Understand the Dataset:
+
 •	Load the dataset into a DataFrame using tools like pandas.
 •	Inspect the structure of the dataset with methods like .head(), .info(), and .describe().
+
 2.Data Cleaning:
+
 •	Handle missing values using methods like dropna() or fillna().
 •	Remove duplicate rows if present.
 •	Identify and handle outliers using visualization (boxplots) or statistical methods.
+
 3.Understand the Variables:
 •	Identify categorical and numerical columns.
 •	Check for inconsistencies or errors in data types and correct them.
